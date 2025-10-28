@@ -1,1 +1,1 @@
-# galina_ai
+# darina_ai
